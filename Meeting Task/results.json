@@ -1,0 +1,60 @@
+{
+  "generated_at": "2025-11-30T21:02:38.633282",
+  "task_count": 6,
+  "tasks": [
+    {
+      "id": 1,
+      "description": "Sakshi, we need someone to fix the critical login bug that users reported yesterday.",
+      "assigned_to": "Sakshi",
+      "priority": "Critical",
+      "deadline": null,
+      "dependencies": [],
+      "reason": "Sakshi, we need someone to fix the critical login ..."
+    },
+    {
+      "id": 2,
+      "description": "And we need to update the API documentation before Friday's release - this is high \npriority.",
+      "assigned_to": "Mohit",
+      "priority": "High",
+      "deadline": "Friday",
+      "dependencies": [],
+      "reason": "And we need to update the API documentation before..."
+    },
+    {
+      "id": 3,
+      "description": "Oh, and someone should design the new onboarding screens for the next sprint.",
+      "assigned_to": "Arjun",
+      "priority": "Medium",
+      "deadline": null,
+      "dependencies": [],
+      "reason": "Oh, and someone should design the new onboarding s..."
+    },
+    {
+      "id": 4,
+      "description": "Arjun, didn't you work on UI designs last month?",
+      "assigned_to": "Arjun",
+      "priority": "Medium",
+      "deadline": null,
+      "dependencies": [],
+      "reason": "Arjun, didn't you work on UI designs last month?..."
+    },
+    {
+      "id": 5,
+      "description": "One more thing - we need to write unit tests for the payment module.",
+      "assigned_to": "Lata",
+      "priority": "Medium",
+      "deadline": null,
+      "dependencies": [],
+      "reason": "One more thing - we need to write unit tests for t..."
+    },
+    {
+      "id": 6,
+      "description": "This depends on the login bug fix being completed first, so let's plan this for Wednesday.",
+      "assigned_to": "Sakshi",
+      "priority": "Medium",
+      "deadline": "Wednesday",
+      "dependencies": [],
+      "reason": "This depends on the login bug fix being completed ..."
+    }
+  ]
+}

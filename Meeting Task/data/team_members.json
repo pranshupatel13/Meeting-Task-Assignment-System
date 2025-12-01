@@ -1,0 +1,24 @@
+{
+  "team_members": [
+    {
+      "name": "Sakshi",
+      "role": "Frontend Developer",
+      "skills": ["React", "JavaScript", "UI bugs", "frontend"]
+    },
+    {
+      "name": "Mohit",
+      "role": "Backend Engineer",
+      "skills": ["Database", "APIs", "Performance optimization", "backend"]
+    },
+    {
+      "name": "Arjun",
+      "role": "UI/UX Designer",
+      "skills": ["Figma", "User flows", "Mobile design", "UI", "design"]
+    },
+    {
+      "name": "Lata",
+      "role": "QA Engineer",
+      "skills": ["Testing", "Automation", "Quality assurance", "QA"]
+    }
+  ]
+}
